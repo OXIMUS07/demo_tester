@@ -1,2 +1,2 @@
 # demo_tester
-A test file for demo testing of the git funcations.
+A test file for demo testing of the git functions.
